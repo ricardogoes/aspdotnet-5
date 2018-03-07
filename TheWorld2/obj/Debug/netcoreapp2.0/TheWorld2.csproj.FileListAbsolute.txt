@@ -1,0 +1,10 @@
+E:\Repos\aspdotnet-5\TheWorld2\TheWorld2\obj\Debug\netcoreapp2.0\TheWorld2.csproj.CoreCompileInputs.cache
+E:\Repos\aspdotnet-5\TheWorld2\TheWorld2\obj\Debug\netcoreapp2.0\TheWorld2.AssemblyInfoInputs.cache
+E:\Repos\aspdotnet-5\TheWorld2\TheWorld2\obj\Debug\netcoreapp2.0\TheWorld2.AssemblyInfo.cs
+E:\Repos\aspdotnet-5\TheWorld2\TheWorld2\bin\Debug\netcoreapp2.0\TheWorld.deps.json
+E:\Repos\aspdotnet-5\TheWorld2\TheWorld2\bin\Debug\netcoreapp2.0\TheWorld.runtimeconfig.json
+E:\Repos\aspdotnet-5\TheWorld2\TheWorld2\bin\Debug\netcoreapp2.0\TheWorld.runtimeconfig.dev.json
+E:\Repos\aspdotnet-5\TheWorld2\TheWorld2\bin\Debug\netcoreapp2.0\TheWorld.dll
+E:\Repos\aspdotnet-5\TheWorld2\TheWorld2\bin\Debug\netcoreapp2.0\TheWorld.pdb
+E:\Repos\aspdotnet-5\TheWorld2\TheWorld2\obj\Debug\netcoreapp2.0\TheWorld.dll
+E:\Repos\aspdotnet-5\TheWorld2\TheWorld2\obj\Debug\netcoreapp2.0\TheWorld.pdb
